@@ -28,3 +28,7 @@ PONG
 
 
 ```
+
+# Redis Insight UI app
+
+<img width="1728" height="1117" alt="image" src="https://github.com/user-attachments/assets/69ffdcd0-d425-4c9f-8cac-257c77cb6c4c" />
