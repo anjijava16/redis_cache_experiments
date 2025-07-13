@@ -1,20 +1,14 @@
 # redis_cache_experiments
 Redis cache experiment's
 
-# Once Homebrew is installed, you can install Redis with the following command:
-
+## Install 
 1. brew install redis
 
-# Start Redis
+##  Start Redis
 1. brew services start redis
-   
-After installation, you can start Redis using:
-
 2. redis-server
 
-
-
-# Test Redis
+## Test Redis
 
 You can test if Redis is running by opening another Terminal window and typing:
 
