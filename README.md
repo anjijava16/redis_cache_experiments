@@ -14,7 +14,17 @@ You can test if Redis is running by opening another Terminal window and typing:
 
 redis-cli
 
-This opens the Redis command-line interface. You can then test the connection by typing:
+redis-cli -h 127.0.0.1 -p 6379
 
-ping
+```
+welcome@jaisairams-Laptop ~ % redis-cli -h 127.0.0.1 -p 6379
+127.0.0.1:6379> hi
+(error) ERR unknown command 'hi', with args beginning with:
+127.0.0.1:6379> ping
+PONG
+127.0.0.1:6379>
+127.0.0.1:6379>
+127.0.0.1:6379>
 
+
+```
